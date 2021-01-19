@@ -1,0 +1,12 @@
+# Default ignored files
+.idea
+.idea/*
+target/
+target/generated-sources/
+target/generated-test-sources/
+target/test-classes
+target/site
+*.log
+*.iml
+*.ipr
+*.iws
